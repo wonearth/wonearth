@@ -44,4 +44,9 @@ Double Major in Cyber Security
 ### 🔗 Links
 ---
 
-<a href="https://www.linkedin.com/in/wonearth/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://velog.io/@jeewon514"><img src="https://img.shields.io/badge/TECH%20BLOG-20C997?style=for-the-badge&logo=velog&logoColor=white"></a> <a href="mailto:jeewon514@gmail.com"><img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="mailto:jeewon514@gmail.com"><img src="https://img.shields.io/badge/jeewon514%40gmail.com-D9E2F2?style=for-the-badge&logoColor=333333"></a>
+<a href="mailto:jeewon514@gmail.com"><img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="mailto:jeewon514@gmail.com"><img src="https://img.shields.io/badge/jeewon514%40gmail.com-D9E2F2?style=for-the-badge&logoColor=333333"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/wonearth/"><img src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://www.linkedin.com/in/wonearth/"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logoColor=white"></a>
+&nbsp;
+<a href="https://velog.io/@jeewon514"><img src="https://img.shields.io/badge/TECH%20BLOG-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+
