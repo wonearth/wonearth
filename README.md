@@ -8,7 +8,8 @@ Double Major in Cyber Security
 ### 🏆 Awards
 ---
 
-- **2026 Global Leadership Challenge — Grand Prize**, hosted by NSI
+- **2026 Global Leadership Challenge — Grand Prize**, hosted by NSI  
+  [Official Award Announcement](https://www.nsi.or.kr/news/boardview.php?idx=853&field=&keyword=&bbs_code=notice&v_sect=&s_cate_code=&pageNo=1)
 
 ### 🛠️ Tech Stack
 ---
